@@ -46,7 +46,7 @@ The dataset includes customer attributes such as age, geography, gender, credit 
 
 ## Power BI Dashboard
 
-![Bank Customer Churn Dashboard](dashboard_preview.png)
+![Bank Customer Churn Dashboard](powerbiscreenshot.png)
 
 ## Project Files
 - `bankchurn.py` – Python analysis
@@ -60,6 +60,3 @@ This analysis highlights customer segments and characteristics associated with h
 
 *The findings represent associations in the dataset and do not establish causation.*
 
-## Power BI Dashboard
-
-![Bank Customer Churn Dashboard](dashboard_preview.png)
