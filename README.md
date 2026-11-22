@@ -53,7 +53,7 @@ The dataset includes customer attributes such as age, geography, gender, credit 
 - `bank_churn_analysis.sql` – SQL queries
 - `bank_churn_analysis_powerbi.pbix` – Power BI dashboard
 - `Bank Customer Churn Analysis.pptx` – Project presentation
-- `dashboard_preview.png` – Dashboard screenshot
+- `powerbiscreenshot.png` – Dashboard screenshot
 
 ## Conclusion
 This analysis highlights customer segments and characteristics associated with higher churn. These insights can help a bank prioritize customer retention initiatives and further investigate the factors influencing customer decisions.
